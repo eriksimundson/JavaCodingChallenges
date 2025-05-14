@@ -117,4 +117,4 @@ This will:
 
 ## License
 
-[Add license information here]
+[[Apache 2.0 License]](https://github.com/eriksimundson/JavaCodingChallenges/blob/main/LICENSE#:~:text=LICENSE)
